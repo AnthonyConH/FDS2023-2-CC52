@@ -1,1 +1,16 @@
-# FDS2023-2-CC52
+Objetivo del proyecto:
+El objetivo del proyecto de analítica consiste en analizar los datos de tendencias de videos en YouTube en distintos países, con la intención de comprender a fondo las preferencias de la audiencia. Se busca identificar las categorías de vídeos más populares, evaluar cómo estas tendencias han variado a lo largo del tiempo, entender el impacto geográfico en la recepción de los videos, y analizar el rendimiento de los canales de YouTube en términos de frecuencia y popularidad en las tendencias. Además, se pretende explorar la posibilidad de predecir la popularidad o el nivel de interacción de los videos basándose en diferentes variables. Estos análisis proporcionarán un conocimiento detallado sobre el comportamiento de los usuarios en la plataforma, brindando a las empresas de marketing digital y a los creadores de contenido información valiosa para optimizar estrategias de marketing y desarrollar contenido más atractivo y relevante para su audiencia.
+Integrantes:
+-Tarrillo Ayllon Anthony Hans
+-Tomas Alonso Pastor Salazar
+-Javier Enrique Silva Barrientos
+Descripcion del conjunto de datos:
+Los datos recopilados provienen de Kaggle y contienen registros continuos de videos populares de YouTube en varias naciones, como EE. UU., Reino Unido, Alemania, Canadá y Francia. Diariamente se añade información de videos en tendencia, incluyendo detalles como el título, el canal, la hora de publicación, las etiquetas y diversas estadísticas. Estos datos son obtenidos mediante la API de YouTube y se emplean en diferentes usos, desde análisis de opiniones hasta la categorización basada en comentarios, así como para investigaciones sobre la popularidad de los videos.
+Verificar pdf.
+[upc-pre-2023-02-CC52-3-tf.docx](https://github.com/AnthonyConH/FDS2023-2-CC52/files/13455329/upc-pre-2023-02-CC52-3-tf.docx)
+
+Conclusiones:
+El proyecto de análisis se basó en la metodología CRISP-DM para extraer información valiosa de un conjunto amplio de datos sobre tendencias de videos en YouTube en múltiples países. El equipo, integrado por figuras clave como el Patrocinador del Proyecto, expertos en Ciencia de Datos y en Ingeniería/Análisis de Datos, abordó meticulosamente cada fase del proyecto.
+Al comprender la información inicial y detallar las variables, se descubrió la diversidad y riqueza del conjunto de datos. La preparación abordó cuestiones cruciales como limpieza, adaptación de tipos de datos, manejo de duplicados y valores faltantes. Se identificó que la columna "descripción" era la única con valores nulos, posiblemente debido a falta de descripciones en algunos videos. Además, se verificó la calidad de los datos, especialmente en la columna "vistas", revelando una distribución variada y valores atípicos, los cuales fueron abordados eficientemente.
+Revisar las decisiones y resultados fue crucial a lo largo del proyecto. Esta metodología permitió adaptarse y reflexionar para mejorar los resultados. La perseverancia en la búsqueda de información clave llevó a un proyecto exitoso que cumplió los objetivos.
+En conclusión, este proyecto no solo respondió preguntas planteadas, sino que sentó bases para investigaciones futuras y mejoras continuas en el análisis de datos y la generación de información valiosa.
